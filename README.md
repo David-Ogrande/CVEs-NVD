@@ -25,7 +25,6 @@ CVE-2018-8174
 CVE-2019-0708
 ```
 
-VD
 At the end, run the main.py script and check the result in the file result.csv.
 
 ```python
